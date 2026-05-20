@@ -1,0 +1,13 @@
+data/
+models/
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.joblib
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+kaggle.json
